@@ -30,7 +30,7 @@ I'm constantly exploring new technologies, improving my craft, and turning ideas
 
 ### 🚀 *Frontend*
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
 </p>
 
 ### 🧩 *Backend*
@@ -40,12 +40,12 @@ I'm constantly exploring new technologies, improving my craft, and turning ideas
 
 ### 🗄️ *Databases*
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
 ### 🧰 *Tools & Others*
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
